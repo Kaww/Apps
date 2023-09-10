@@ -7,4 +7,4 @@
 
 ### 🔏 [Privacy policy](./privacy-policy.html)
 
-### ❓ [Support](./support.html)
+### ❓ [Support](./support.md)
