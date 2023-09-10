@@ -1,9 +1,13 @@
+## ❓Support
+
 ### Français
 
 #### Contactez-moi via le formulaire dans l'application :
 - Depuis l'écran principal, se rendre dans les paramètres (l'icon ⚙️ en haut à droite)
 - Choisir "Contacter le développeur"
 - Contactez-moi via ce formulaire
+
+---
 
 ### English
 
