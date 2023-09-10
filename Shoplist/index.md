@@ -6,3 +6,5 @@
 ### 🍎 [See on App Store](https://apps.apple.com/app/id6446956373)
 
 ### 🔏 [Privacy policy](./privacy-policy.html)
+
+### ❓ [Support](./support.html)
