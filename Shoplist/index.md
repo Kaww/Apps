@@ -1,6 +1,6 @@
 ## Shoplist
 
-<img src="./shoplist-logo.png" width="100" height="100">
+<img src="./shoplist-logo.png" width="100" height="100" style="border-radius:25%">
 
 
 ### 🍎 [See on App Store](https://apps.apple.com/app/id6446956373)
